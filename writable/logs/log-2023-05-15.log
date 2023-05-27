@@ -1,0 +1,261 @@
+CRITICAL - 2023-05-15 00:00:59 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 8.
+ 1 APPPATH\Views\inc\compartida\head.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 8)
+ 2 APPPATH\Views\lista.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\lista.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lista', [], true)
+ 6 APPPATH\Controllers\UsuariosController.php(18): view('lista', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuariosController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:43:04 --> include(Models/config.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/config.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:44:59 --> include(/Models/config.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(/Models/config.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:45:05 --> include(./Models/config.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./Models/config.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:45:25 --> include(Config/Models/config.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Config/Models/config.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:46:00 --> include(Config/Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Config/Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:46:15 --> include(Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:49:35 --> include(Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:49:36 --> include(Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:51:09 --> include(Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 00:51:14 --> include(Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-15 01:09:10 --> include(Models/registerModel.php): Failed to open stream: No such file or directory
+in APPPATH\Views\inc\componentes\registrar\registrar_usuario.php on line 5.
+ 1 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/registerModel.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php', 5)
+ 2 APPPATH\Views\inc\componentes\registrar\registrar_usuario.php(5): include()
+ 3 APPPATH\Views\registrar.php(11): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\registrar\\registrar_usuario.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\registrar.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('registrar', [], true)
+ 7 APPPATH\Controllers\Home.php(96): view('registrar', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registrar()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-15 03:13:29 --> mysqli_sql_exception: Duplicate entry 'seba@gmail.com-sebitas' for key 'email' in C:\xampp\htdocs\Proyecto-MauroMur\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto-MauroMur\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\Proyecto-MauroMur\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\Proyecto-MauroMur\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\Proyecto-MauroMur\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\Proyecto-MauroMur\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Proyecto-MauroMur\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Proyecto-MauroMur\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\Proyecto-MauroMur\app\Models\UsuarioModel.php(14): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\Proyecto-MauroMur\app\Controllers\UsuariosController.php(52): App\Models\UsuarioModel->insertarUsuario(Array)
+#9 C:\xampp\htdocs\Proyecto-MauroMur\system\CodeIgniter.php(934): App\Controllers\UsuariosController->crearUsuario()
+#10 C:\xampp\htdocs\Proyecto-MauroMur\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+#11 C:\xampp\htdocs\Proyecto-MauroMur\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\Proyecto-MauroMur\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-05-15 03:13:29 --> Duplicate entry 'seba@gmail.com-sebitas' for key 'email'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `usuarios` (`nombre`, `apellido`, `usuario`, `email`, `pass`, `perfil_id`, `baja`) VALUES (\'sadsad12\', \'guevara\', \'sebitas\', \'seba@gmail.com\', \'2yINwrZPk03s.\', 2, \'NO\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `usuarios` (`nombre`, `apellido`, `usuario`, `email`, `pass`, `perfil_id`, `baja`) VALUES (\'sadsad12\', \'guevara\', \'sebitas\', \'seba@gmail.com\', \'2yINwrZPk03s.\', 2, \'NO\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `usuarios` (`nombre`, `apellido`, `usuario`, `email`, `pass`, `perfil_id`, `baja`) VALUES (\'sadsad12\', \'guevara\', \'sebitas\', \'seba@gmail.com\', \'2yINwrZPk03s.\', 2, \'NO\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `usuarios` (`nombre`, `apellido`, `usuario`, `email`, `pass`, `perfil_id`, `baja`) VALUES (:nombre:, :apellido:, :usuario:, :email:, :pass:, :perfil_id:, :baja:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\UsuarioModel.php(14): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\UsuariosController.php(52): App\Models\UsuarioModel->insertarUsuario([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuariosController->crearUsuario()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-15 03:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 03:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-15 04:17:58 --> Undefined variable $usuario
+in APPPATH\Views\inc\compartida\header.php on line 41.
+ 1 APPPATH\Views\inc\compartida\header.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 41)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(38): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-15 04:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-15 04:25:14 --> Undefined variable $usuario
+in APPPATH\Views\inc\compartida\header.php on line 36.
+ 1 APPPATH\Views\inc\compartida\header.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 36)
+ 2 APPPATH\Views\comercializacion.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\comercializacion.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('comercializacion', [], true)
+ 6 APPPATH\Controllers\Home.php(62): view('comercializacion', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->comercializacion()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-15 04:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-15 04:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

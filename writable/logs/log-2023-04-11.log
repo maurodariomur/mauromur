@@ -1,0 +1,32 @@
+CRITICAL - 2023-04-11 23:07:15 --> syntax error, unexpected token "="
+in APPPATH\Views\inc\componentes\principal\main.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 4 APPPATH\Controllers\Home.php(29): view('principal', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 23:13:53 --> Unclosed '{' on line 13
+in APPPATH\Views\inc\componentes\principal\main.php on line 88.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 4 APPPATH\Controllers\Home.php(29): view('principal', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-11 23:45:32 --> require_once(inc/compartida/foooter.php): Failed to open stream: No such file or directory
+in APPPATH\Views\quienes_somos.php on line 10.
+ 1 APPPATH\Views\quienes_somos.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(inc/compartida/foooter.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\quienes_somos.php', 10)
+ 2 APPPATH\Views\quienes_somos.php(10): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\quienes_somos.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quienes_somos', [], true)
+ 6 APPPATH\Controllers\Home.php(36): view('quienes_somos')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->quienesSomos()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

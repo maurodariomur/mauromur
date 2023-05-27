@@ -1,0 +1,120 @@
+.container-register {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #f5b427;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    animation: fadeInUp 0.5s ease;
+  }
+
+.container-register .registrar{
+  text-align: center;
+}
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    color: #000000;
+    animation: fadeIn 0.5s ease;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  label {
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #020100;
+    animation: fadeInLeft 0.5s ease;
+  }
+  
+  @keyframes fadeInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+    background-color: #F7EAC8;
+    color: #555;
+    animation: fadeInRight 0.5s ease;
+  }
+  
+  @keyframes fadeInRight {
+    from {
+      opacity: 0;
+      transform: translateX(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  button[type="submit"] {
+    background-color: #b37f06;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #725604;
+  }
+
+  .regresar {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .regresar a {
+    display: inline-block;
+    background-color: transparent;
+    color: #ffffff;
+    padding: 10px 0;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .regresar a:hover {
+    color: #725604;
+  }
+  

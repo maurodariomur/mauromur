@@ -1,0 +1,109 @@
+.header-1 {
+  position: fixed;
+  background: #302f2f;
+  font-family: "Dosis", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  z-index: 999;
+}
+
+.header-1 p {
+  text-transform: uppercase;
+  color: white;
+  font-size: 6em;
+  text-align: center;
+  animation: neonGlow 2s infinite alternate
+    cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+
+
+@keyframes neonGlow {
+  0% {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8),
+      0 0 20px rgba(255, 255, 255, 0.8), 0 0 22px rgba(255, 255, 255, 0.8),
+      0 0 40px rgba(66, 220, 219, 0.8), 0 0 60px rgba(66, 220, 219, 0.8),
+      0 0 80px rgba(66, 220, 219, 0.5), 0 0 100px rgba(66, 220, 219, 0.5),
+      0 0 140px rgba(66, 220, 219, 0.5), 0 0 200px rgba(66, 220, 219, 0.5);
+  }
+  100% {
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0.8),
+      0 0 8px rgba(255, 255, 255, 0.8), 0 0 10px rgba(255, 255, 255, 0.8),
+      0 0 20px rgba(66, 220, 219, 0.8), 0 0 30px rgba(66, 220, 219, 0.8),
+      0 0 40px rgba(66, 220, 219, 0.8), 0 0 50px rgba(66, 220, 219, 0.5),
+      0 0 80px rgba(66, 220, 219, 0.5);
+  }
+}
+
+.marca {
+  width: 80px;
+  height: 40px;
+}
+
+.marca img {
+  object-fit: contain;
+}
+
+.container-header {
+  display: flex;
+  column-gap: 20px;
+}
+
+.navbar {
+  padding-left: 5px;
+  padding-top: 50px;
+}
+
+.navbar-nav {
+  gap: 20px;
+}
+
+.button-login{
+  margin-top: 5px;
+}
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  background-color: #333;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.user-icon:hover {
+  background-color: #666;
+  cursor: pointer;
+}
+
+.button-login a {
+  color: #555;
+}
+
+.button-login a:hover {
+  color: #333;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1;
+  display: none;
+  min-width: 160px;
+  padding: 8px 0;
+  margin: 0;
+  list-style: none;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+
+.nav-usuario{
+  display: flex;
+  align-items: center;
+  column-gap: 2px;
+}
+
+.dropdown-menu.show {
+  display: block;
+}

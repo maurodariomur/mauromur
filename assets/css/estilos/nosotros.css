@@ -1,0 +1,124 @@
+/* Abarca todo el contenido de la pag. */
+.container-somos{
+    width: 100%;
+    height: max-content;
+    padding: 50px;
+    overflow-x: hidden;
+    background-color: rgb(221, 218, 218);
+    font-family: georgia;
+}
+
+
+/* contenedor de quienes somos */
+.container-nosotros{
+ display: flex;
+ width: 100%;
+ height: max-content;
+ padding: 0;
+ margin-top: 15px;
+ background: #f8f8f8;
+ box-shadow: 0 5px 10px #000000;
+ border-radius: 5px;
+}
+
+/* contenedor de la imagen de la empresa */
+.img-empresa img{
+    object-fit: cover;
+}
+
+/* el contenedor del contenido de somos:incluye texto */
+.container-historia{
+    padding: 10px 15px;
+}
+
+/* Contenedor de Objetivos */
+.container-objet{
+    margin-top: 5%;
+    width: 100%;
+    height: max-content;
+    display: flex;
+    overflow-x: hidden;
+    background: #fff;
+    box-shadow: 0 5px 10px #000000;
+    border-radius: 5px;
+}
+
+.container-objetic h3 {
+    padding: 20px 30px;
+}
+
+.container-objetic ul{
+    padding-bottom: 10px;
+}
+
+.text{
+margin: 10px 0;
+width: 100%;
+height: max-content;
+margin-left: 40%;
+}
+
+
+/* contenedor para toda las cartas de autoridades */
+.container-autoridades{
+    display: flex;
+    width: 100%;
+    height: max-content;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    overflow-x: hidden;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px #000000;
+    background-color: #fff;
+}
+
+.container-autoridades h1{
+    margin:40px 0;
+}
+
+.card-container{
+    place-content: center;
+    margin: 20px;
+    gap:70px;
+}
+
+/* Abarca cada carta */
+.card-autoridad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(113, 114, 114, 0.2);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+.card-autoridad h2{
+    margin-bottom: 30px;
+}
+
+/* Imagen de cada carta */
+.autoridades-container{
+    width: 60%;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+/* Parrafos de cada carta */
+.card-autoridad p{
+    margin-top: 10%;
+}
+
+
+/* solo se aplica para celulares */
+@media screen and (max-width: 768px) {
+    .container-nosotros{
+        flex-direction: column;
+    }
+    .text{
+        margin: 0;
+    }
+}

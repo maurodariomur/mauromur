@@ -1,0 +1,142 @@
+/* Sera todo el contenido de la pagina contacto */
+.container-contacto{
+    width: 100%;
+    height: max-content;
+    padding: 50px;
+    overflow-x: hidden;
+    background-color: rgb(221, 218, 218);
+    font-family: Latin Modern Roman;   
+}
+
+/* Cabezera Del Formulario */
+.container-title{
+    display: flex;
+    width: 100%;
+    height: max-content;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 20px ;
+    border-top-left-radius: 20px;
+    background:linear-gradient(rgb(245, 171, 34),rgb(240, 210, 39)) ;
+}
+
+/* abarca todo el formulario  */
+.card-form{
+    display:inline-block;
+    width: 100%;
+    height:max-content;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:5% 0;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 20px;
+    background:rgb(240, 210, 39);
+
+}
+
+/* abarca todo el input */
+.container-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 20px ;
+    border-bottom-left-radius: 20px ;
+    color: rgb(0, 0, 0);
+    background:rgb(240, 210, 39);
+
+}
+
+.container-form form{
+    width: 400px;
+}
+
+.columna-input{
+    width: 100%;
+}
+
+/* tamaño del card de cada input */
+.container-form form button,
+.container-form form input,
+.container-form form textarea {
+    width: 100%;
+    margin-top: 10px;
+    padding: .4em;
+}
+
+
+.menssage-text{
+    max-height: 200px;
+}
+
+/* distancia del input*/
+.md-form{
+    padding-top: 10px;
+}
+
+/* boton de enviar */
+.container-env{
+    width: 10%;
+    height: max-content;
+    display: contents;
+    overflow-x: hidden;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px ;
+}
+
+.container-env button{
+    margin-top: 20px;
+}
+
+/* Contenedor de Informacion */
+.contact-info{
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    padding: 20px 80px 20px 0px ;
+    border-bottom-right-radius: 20px ;
+    color: rgb(0, 0, 0);
+    background: rgb(240, 210, 39);
+}
+
+.contact-info  ul li b{
+    text-align: justify;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
+
+.contact-info ul li i{
+    display: inline-block;
+    font: normal normal normal 15px/1 FontAwesome;
+    background-color: #1f1e1e;
+    color: #faf4f4;
+    padding: 9px;
+    border-radius: 50%;
+}
+
+.contact-info ul li{
+    margin-bottom: 10px;
+}
+
+.contact-info iframe{
+    border-radius: 20px;
+}
+
+@media screen and (max-width: 870px) {
+    .container-form{
+        padding: 20px 30px;
+    
+    }
+    .contact-info{
+        padding: 20px 30px;
+    }
+    .container-form form{
+        width: 300px;
+    }
+  }

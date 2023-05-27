@@ -1,0 +1,1125 @@
+INFO - 2023-05-25 18:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 18:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 18:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 18:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 18:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 19:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 19:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 19:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 19:40:52 --> Undefined variable $comics
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 8.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comics', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 8)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 19:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 19:47:06 --> Undefined variable $comics
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 8.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comics', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 8)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 19:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 19:58:21 --> Undefined variable $comics
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 8.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comics', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 8)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 19:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 19:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 19:58:25 --> Undefined variable $comics
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 8.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comics', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 8)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:05:11 --> Undefined variable $comics
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 8.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $comics', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 8)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:08:28 --> Undefined variable $productos
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 5.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 5)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:09:51 --> Undefined variable $productos
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 5.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 5)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:11:00 --> Undefined variable $productos
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 5.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 5)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-25 20:12:51 --> Too few arguments to function App\Controllers\ProductosController::mostrarProductos(), 0 passed in C:\xampp\htdocs\Proyecto-MauroMur\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\ProductosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductosController->mostrarProductos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductosController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:22:53 --> Undefined variable $productos
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 5.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 5)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(96): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-25 20:27:35 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\ProductosController.php(22): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductosController->mostrarProductos()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductosController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-25 20:28:11 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\ProductosController.php(22): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductosController->mostrarProductos()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductosController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:37:36 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:39:37 --> view(): Argument #1 ($name) must be of type string, array given, called in C:\xampp\htdocs\Proyecto-MauroMur\app\Controllers\Home.php on line 100
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\Home.php(100): view([...], [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:41:26 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:43:30 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:43:57 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:46:26 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:46:29 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:49:53 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:50:04 --> Undefined variable $usuario
+in APPPATH\Views\inc\compartida\header.php on line 21.
+ 1 APPPATH\Views\inc\compartida\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 21)
+ 2 APPPATH\Views\catalogo.php(8): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:50:12 --> Undefined variable $usuario
+in APPPATH\Views\inc\compartida\header.php on line 21.
+ 1 APPPATH\Views\inc\compartida\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 21)
+ 2 APPPATH\Views\catalogo.php(8): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:50:24 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:50:58 --> Undefined variable $titulo
+in APPPATH\Views\inc\compartida\head.php on line 11.
+ 1 APPPATH\Views\inc\compartida\head.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 11)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:51:26 --> Undefined variable $usuario
+in APPPATH\Views\inc\compartida\header.php on line 21.
+ 1 APPPATH\Views\inc\compartida\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuario', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 21)
+ 2 APPPATH\Views\catalogo.php(8): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:51:53 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:52:20 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:54:37 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:54:45 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 20:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 20:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 20:58:25 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 9.
+ 1 APPPATH\Views\inc\compartida\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 9)
+ 2 APPPATH\Views\catalogo.php(4): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [...], true)
+ 6 APPPATH\Controllers\Home.php(100): view('catalogo', [...], [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 21:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 21:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 21:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 21:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 21:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 21:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 21:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:11:55 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 13.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 13)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:12:51 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 13.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 13)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:13:17 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 9.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 9)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:13:54 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:15:35 --> syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 4 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:16:45 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 9.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 9)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:18:40 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 9.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 9)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:21:20 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 9.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 9)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-25 22:24:28 --> syntax error, unexpected double-quoted string "productos", expecting "]"
+in APPPATH\Controllers\Home.php on line 104.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:24:42 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 9.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 9)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:25:42 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:28:33 --> Undefined variable $usuarios
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarios', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:28:50 --> Undefined variable $usuarios
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usuarios', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:30:06 --> Trying to access array offset on value of type null
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 15.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 15)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:31:25 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:32:39 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:33:32 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:34:16 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:38:20 --> Call to undefined method App\Models\UsuarioModel::obtenerPorProductos
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Home.php(97): CodeIgniter\Model->__call('obtenerPorProductos', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:38:57 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:39:34 --> Too few arguments to function App\Models\UsuarioModel::obtenerPorUsuario(), 0 passed in C:\xampp\htdocs\Proyecto-MauroMur\app\Controllers\Home.php on line 97 and exactly 1 expected
+in APPPATH\Models\UsuarioModel.php on line 32.
+ 1 APPPATH\Controllers\Home.php(97): App\Models\UsuarioModel->obtenerPorUsuario()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:39:45 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:40:01 --> Call to undefined method App\Models\UsuarioModel::obtenerUsuario
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Home.php(97): CodeIgniter\Model->__call('obtenerUsuario', [])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:43:11 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:44:25 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:44:32 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:45:42 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(104): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:46:11 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 22:53:38 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 22:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 22:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:01:50 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 14.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 14)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:04:13 --> Undefined array key "perfil_id"
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 13.
+ 1 APPPATH\Views\inc\componentes\catalogo\main.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 13)
+ 2 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:05:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:29 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\catalogo.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:37 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:38 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\quienes_somos.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\quienes_somos.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('quienes_somos', [], true)
+ 6 APPPATH\Controllers\Home.php(60): view('quienes_somos', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->quienesSomos()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:38 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\catalogo.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:39 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:39 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\catalogo.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:40 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:41 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\catalogo.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:41 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:41 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\catalogo.php(9): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 6 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:42 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:44:45 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:45:29 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:45:40 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:46:17 --> Undefined variable $totalcantidad
+in APPPATH\Views\inc\compartida\header.php on line 68.
+ 1 APPPATH\Views\inc\compartida\header.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalcantidad', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php', 68)
+ 2 APPPATH\Views\principal.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\header.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:47:58 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\inc\compartida\head.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 12)
+ 2 APPPATH\Views\inc\compartida\head.php(12): session_start()
+ 3 APPPATH\Views\principal.php(5): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 7 APPPATH\Controllers\Home.php(49): view('principal', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:48:30 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\inc\componentes\catalogo\main.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php', 1)
+ 2 APPPATH\Views\inc\componentes\catalogo\main.php(1): session_start()
+ 3 APPPATH\Views\catalogo.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\catalogo\\main.php')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\catalogo.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('catalogo', [], true)
+ 7 APPPATH\Controllers\Home.php(102): view('catalogo', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->catalogo()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-25 23:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-25 23:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-25 23:55:20 --> Undefined variable $carrito
+in APPPATH\Views\inc\componentes\carrito\main.php on line 4.
+ 1 APPPATH\Views\inc\componentes\carrito\main.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $carrito', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\carrito\\main.php', 4)
+ 2 APPPATH\Views\carrito.php(10): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\componentes\\carrito\\main.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\carrito.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('carrito', [], true)
+ 6 APPPATH\Controllers\Home.php(142): view('carrito', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->carrito()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

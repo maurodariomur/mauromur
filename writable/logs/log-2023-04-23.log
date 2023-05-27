@@ -1,0 +1,24 @@
+CRITICAL - 2023-04-23 02:20:29 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 8.
+ 1 APPPATH\Views\inc\compartida\head.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 8)
+ 2 APPPATH\Views\principal.php(5): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(30): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 02:20:31 --> Undefined variable $css_file
+in APPPATH\Views\inc\compartida\head.php on line 8.
+ 1 APPPATH\Views\inc\compartida\head.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $css_file', 'C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php', 8)
+ 2 APPPATH\Views\principal.php(5): require_once('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\inc\\compartida\\head.php')
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Proyecto-MauroMur\\app\\Views\\principal.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('principal', [], true)
+ 6 APPPATH\Controllers\Home.php(30): view('principal', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,95 @@
+.container-table{
+    background-color: rgb(241, 209, 144);
+    margin: 0;
+    padding: 0;
+    height: 100%;    
+}
+
+.table {
+    width: 100%;
+    border-collapse:collapse;
+    margin:30px,auto;
+}
+
+.title-table{
+    text-align: center;
+    margin: 20px;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    text-align: center;
+}
+
+.table thead {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #fafafa;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+    background-color: #fafafa;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 1px solid #dee2e6;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.table-responsive {
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+
+p{
+    margin-top: 10px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+/* Estilos para el botón de Alta */
+.btn.alta {
+    background-color: green;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn.alta:hover {
+    background-color: darkgreen;
+  }
+  
+  /* Estilos para el botón de Baja */
+  .btn.baja {
+    background-color: red;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn.baja:hover {
+    background-color: darkred;
+  }
+  
+
+
+@media (max-width: 768px) {
+    .table-responsive {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+}

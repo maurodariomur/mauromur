@@ -1,0 +1,147 @@
+/*==================== 
+  Footer 
+====================== */
+
+/* Main Footer */
+footer{
+    position: relative;
+    width: 100%;
+    background:  #302f2f;
+
+}
+
+footer .main-footer{ 
+    padding:30px 100px 10px 60px;  
+    font-family: Arial;
+}
+
+footer .logo{
+    width: 80%;
+    height: max-content;
+    object-fit: contain;
+    margin-bottom: 15px;
+
+}
+
+footer ul{  
+    padding-left: 0;  
+    list-style: none;
+}
+
+/* Copy Right Footer */
+.footer-copyright { 
+    width: 100%;
+    left: 0;
+    background: #1d1c1c; 
+    position: absolute;
+    bottom:15px;
+}
+
+.footer-copyright .logo {    
+    display: inherit;
+}
+.footer-copyright nav {    
+    float: right;    
+    margin-top: 20px;
+}
+
+.footer-copyright nav ul li a{  
+    color: #f5f3f3;
+}
+.footer-copyright nav ul li:first-child { 
+    border: medium none;  
+    padding-left: 0;
+}
+.footer-copyright p { 
+    color: #969696; 
+    margin: 2px 0 0;
+}
+
+/* Footer 4 */
+.footer- .logo {    
+    display: inline-block;
+}
+
+.contacto{
+    margin-bottom: 20px;
+}
+
+/*==================== 
+  Widgets 
+====================== */
+.widget{  
+    padding: 20px;  
+    margin-bottom: 40px;
+}
+.widget.widget-last{  
+    margin-bottom: 0;
+}
+
+.widget.no-box{ 
+    padding: 0; 
+    background-color: transparent;  
+    margin-bottom: 40px;
+    box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; -ms-box-shadow: none; -o-box-shadow: none;
+}
+
+/* Box text */
+.widget.subscribe p{ 
+    margin-bottom: 18px;
+}
+.widget li a{ 
+    color: #ffffff;
+}
+.widget li a:hover{ 
+    color: #707072;
+    text-decoration: none;}
+.widget-title {
+    margin-bottom: 20px;
+}
+
+/* Subrayado */
+.widget-title span {
+    background: #839FAD none repeat scroll 0 0;
+    display: block; 
+    height: 1px;
+    margin-top: 18px;
+    position: relative;
+    width: 30%;
+}
+
+/* Primer subrayado */
+.widget-title span::after {
+    background: inherit;
+    content: "";
+    height: inherit;    
+    position: absolute;
+    top: -4px;
+    width: 50%;
+}
+
+.typo-light h1, 
+.typo-light h2, 
+.typo-light h3, 
+.typo-light h4, 
+.typo-light h5, 
+.typo-light h6,
+.typo-light p,
+.typo-light div,
+.typo-light span,
+.typo-light small{  
+    color: #f5f4f4;
+}
+
+.f-icon {
+    display: inline-block;
+    font: normal normal normal 15px/1 FontAwesome;
+    background-color: #1f1e1e;
+    color: #faf4f4;
+    padding: 9px;
+    border-radius: 50%;
+    transition: all .4s ease-in-out ;
+}
+
+.f-icon:hover{
+    transform: scale(1.09);
+    transition: all .4s ease-in-out ;
+}
